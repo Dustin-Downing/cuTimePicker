@@ -1,5 +1,5 @@
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
-import { DatepickerModule } from './datepicker.module';
+import { CuTimeInputComponent } from './timeinput.module';
 
-platformBrowserDynamic().bootstrapModule(DatepickerModule);
+platformBrowserDynamic().bootstrapModule(CuTimeInputComponent);

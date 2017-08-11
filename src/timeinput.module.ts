@@ -2,13 +2,13 @@ import { CommonModule }   from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 
-import { DatepickerComponent } from './datepicker.component';
+import { CuTimeInputComponent } from './timeinput.component';
 
-export * from './datepicker.component';
+export * from './timeinput.component';
 
 @NgModule({
-  declarations: [ DatepickerComponent ],
-  exports: [ DatepickerComponent ],
+  declarations: [ CuTimeInputComponent ],
+  exports: [ CuTimeInputComponent ],
   imports: [ CommonModule, FormsModule, ReactiveFormsModule ]
 })
 export class DatepickerModule { }

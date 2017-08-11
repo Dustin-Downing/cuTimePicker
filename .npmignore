@@ -1,6 +1,5 @@
 **/*.ngfactory.*
 aot
-demo
 index.html
 integration-test
 karma.conf.js
