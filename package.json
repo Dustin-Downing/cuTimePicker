@@ -1,13 +1,15 @@
 {
-  "name": "angular2-material-datepicker",
+  "name": "angular2-material-time-input",
   "version": "1.0.0",
-  "author": "Kevin O'Leary",
+  "author": "Dustin Downing",
   "license": "MIT",
   "keywords": [
     "angular2",
     "angular 2",
     "ng2",
-    "datepicker",
+    "timepicker",
+    "time picker",
+    "time input",
     "material"
   ],
   "devDependencies": {
