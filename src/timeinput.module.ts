@@ -11,4 +11,4 @@ export * from './timeinput.component';
   exports: [ CuTimeInputComponent ],
   imports: [ CommonModule, FormsModule, ReactiveFormsModule ]
 })
-export class DatepickerModule { }
+export class TimeInputModule { }
